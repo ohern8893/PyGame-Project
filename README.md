@@ -7,3 +7,7 @@
 <img src = "https://github.com/ohern8893/PyGame-Project/blob/master/Game%20Plan/Capture%20Game%20Over.PNG" width = "250" height = "200" >
 <p> Company: Steelbox Inc. </p>
 <p> Company Workers: Oliver Hernandez, Andrew Zhong, Cristopher Matos </p>
+<h2> Resources </h2>
+<a href = "https://youtu.be/_GikMdhAhv0" >
+<a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" >
+
