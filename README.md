@@ -8,6 +8,6 @@
 <p> Company: Steelbox Inc. </p>
 <p> Company Workers: Oliver Hernandez, Andrew Zhong, Cristopher Matos </p>
 <h2> Resources </h2>
-<a href = "https://youtu.be/_GikMdhAhv0" >
-<a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" >
+<a href = "https://youtu.be/_GikMdhAhv0" > Installing Python 3.6 and PyGame </a>
+<a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" > PyGame Wheel File </a>
 
